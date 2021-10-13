@@ -1,0 +1,3 @@
+[
+private java.lang.String Annotation.task2.Car.mode, 
+private int Annotation.task2.Car.ageModel]

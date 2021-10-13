@@ -1,0 +1,1 @@
+[Person{name='Oles', age=22}, Person{name='Andriy', age=25}, Person{name='Tom', age=19}]
